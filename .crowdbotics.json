@@ -1,0 +1,14 @@
+{
+  "scaffold": {
+    "type": "react-native",
+    "version": "2.3.0",
+    "cookiecutter_context": {
+      "project_name": "Green Glitter",
+      "project_slug": "green_glitter_dev_102228",
+      "project_dash_slug": "green-glitter-dev-102228",
+      "project_description": "This react_native application was built with Crowdbotics www.crowdbotics.com",
+      "owner_email": "sam3@crowdbotics.com",
+      "ssh_key_fingerprint": "c5:bd:6d:0b:a1:39:97:83:ca:b5:13:59:14:ff:49:40"
+    }
+  }
+}
